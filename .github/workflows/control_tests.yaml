@@ -23,4 +23,8 @@ jobs:
           pytest
 
       - name: Run flake8
+<<<<<<< HEAD
         uses: py-actions/flake8@v2
+=======
+        uses: py-actions/flake8@v2
+>>>>>>> a9adbfa6228a5a1a063da6bf4d91b7acfb1414a4
